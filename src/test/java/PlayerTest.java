@@ -123,5 +123,5 @@ public class PlayerTest {
         player.setState(PlayerStateCombat.getInstance());
         assertFalse(player.combat());
     }
-    
+
 }
